@@ -1,0 +1,1 @@
+aws s3 sync s3://wildrydes-us-east-1/WebApplication/1_StaticWebHosting/website s3://neon-pekingese-arsenic-static --region eu-west-1
